@@ -1,6 +1,9 @@
 _repo: The-Red-Lily---Complete_3922
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Le lys rouge. English
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: France, Anatole
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/755
     wikipedia: http://en.wikipedia.org/wiki/Anatole_France
 description: Translation of Le lys rouge.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3922#The-Red-Lily---Complete
 gutenberg_issued: '2004-10-30'
 gutenberg_type: Text
 identifiers:
